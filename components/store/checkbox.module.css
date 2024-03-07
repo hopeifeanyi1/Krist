@@ -1,0 +1,24 @@
+input[type="checkbox"] {
+    background-color: #002B4E !important;
+    color: white;
+}
+
+input[type="checkbox"]:enabled:checked {
+    background-color: #002B4E !important;
+    color: white;
+}
+
+input[type="checkbox"]:before {
+    background-color: #002B4E !important;
+    color: white;
+}
+
+input[type="checkbox"]::before {
+    background-color: #002B4E !important;
+    color: white;
+}
+
+.dark-checkbox input[type="checkbox"]:checked {
+    background-color: #002B4E !important;
+    color: white;
+}
